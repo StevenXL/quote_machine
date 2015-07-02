@@ -1,8 +1,16 @@
 .quotation-group {
+  padding-bottom: 5%;
 }
+
 .quote {
+  color: #CF3A3A;
+  font-family: Roboto, sans-serif;
+}
+
+.author {
+  color: #EE3E80;
   font-family: 'Inknut Antiqua', serif;
-  color: #2B7C7C;
+  font-style: italic;
 }
 
 button {
