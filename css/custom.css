@@ -1,5 +1,7 @@
 .quotation-group {
   padding-bottom: 5%;
+  border: thin solid #DCDCDC;
+  border-radius: 10px;
 }
 
 .quote {
